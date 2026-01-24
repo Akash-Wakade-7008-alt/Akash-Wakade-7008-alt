@@ -53,6 +53,15 @@
   <img src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
 </p>
 
+<<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+
+
 ---
 
 ### 🌍 Connect With Me
