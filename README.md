@@ -83,6 +83,3 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Akash-W/output/github-contribution-grid-snake.svg)
-
-![Snake animation dark](https://raw.githubusercontent.com/Akash-W/output/github-contribution-grid-snake-dark.svg)
