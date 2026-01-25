@@ -80,3 +80,9 @@
 
 
 ![snake](https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg)
+
+
+
+![Snake animation](https://raw.githubusercontent.com/Akash-W/output/github-contribution-grid-snake.svg)
+
+![Snake animation dark](https://raw.githubusercontent.com/Akash-W/output/github-contribution-grid-snake-dark.svg)
