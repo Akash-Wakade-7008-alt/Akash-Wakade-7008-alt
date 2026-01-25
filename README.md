@@ -10,17 +10,16 @@
 
 ---
 
-
 ### 🐍 Contribution Snake (animation)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
 </p>
 
-
 ---
 
-
 ### 👋 About Me
+
 - 🎓 B.Tech CSE (starting Aug 2025)
 - 💻 Focus: **JavaScript, React, Node.js**
 - 🎯 Goal: **GSoC 2026**
@@ -29,6 +28,7 @@
 ---
 
 ### 🧰 Tech Stack
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,linux" />
 </p>
@@ -36,6 +36,7 @@
 ---
 
 ### 📌 Featured Projects
+
 - 🛒 **Amazon Clone**
 - 🎬 **Netflix Clone**
 - ☕ **Starbucks Clone**
@@ -47,6 +48,7 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akash-Wakade-7008-alt&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight" />
@@ -67,6 +69,7 @@
 --- -->
 
 ### 🌍 Connect With Me
+
 <p style="justify-content:centre;align-items:centre">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -80,8 +83,5 @@
   <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&style=flat-square" />
 </p>
 
-<!-- 
+<!--
 ![snake](https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg) -->
-
-
-
