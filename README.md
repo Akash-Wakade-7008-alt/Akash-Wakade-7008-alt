@@ -70,8 +70,8 @@
   <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&style=flat-square" />
 </p>
 
-
-![snake](https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg)
+<!-- 
+![snake](https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg) -->
 
 
 
