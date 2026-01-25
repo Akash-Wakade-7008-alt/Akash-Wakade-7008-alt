@@ -9,6 +9,8 @@
 </p>
 
 ---
+
+
 ### 🐍 Contribution Snake (animation)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
@@ -16,6 +18,8 @@
 
 
 ---
+
+
 ### 👋 About Me
 - 🎓 B.Tech CSE (starting Aug 2025)
 - 💻 Focus: **JavaScript, React, Node.js**
@@ -63,7 +67,7 @@
 --- -->
 
 ### 🌍 Connect With Me
-<p>
+<p style="justify-content:centre;">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
