@@ -67,7 +67,7 @@
 --- -->
 
 ### 🌍 Connect With Me
-<p style="justify-content:centre;">
+<p style="justify-content:centre;align-items:centre">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
