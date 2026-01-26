@@ -49,7 +49,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Akash-Wakade-7008-alt&show_icons=true&theme=tokyonight" />
-  <!-- <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight" /> -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight" />
 </p>
 
 <p align="center">
