@@ -8,7 +8,7 @@
 
 ---
 
-### 🐍 Contribution Snake (animation)
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akash-Wakade-7008-alt/Akash-Wakade-7008-alt/output/github-contribution-grid-snake.svg" />
