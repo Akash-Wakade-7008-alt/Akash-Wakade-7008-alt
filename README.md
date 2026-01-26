@@ -52,9 +52,9 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akash-Wakade-7008-alt&theme=tokyo-night" />
-</p>
+</p> -->
 
 ---
 
