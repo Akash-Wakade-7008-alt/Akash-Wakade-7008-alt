@@ -61,7 +61,7 @@
 ### 🌍 Connect With Me
 
 <p style="justify-content:centre;align-items:centre">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/" style="margin-left:5vw">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:akashwakade7008@gmail.com">
