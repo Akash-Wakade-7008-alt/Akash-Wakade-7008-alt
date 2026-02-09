@@ -36,8 +36,6 @@
 - 📺 **YouTube Clone** → Video browsing with search
 - 🌐 **Personal Portfolio** → Developer-focused branding
 
-👉 **Tip:** Pin your BEST 6 repositories.
-
 ---
 
 ## 💻 My favorite tools and technologies
