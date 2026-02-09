@@ -26,14 +26,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,linux&perline=6" />
-</p>
-
----
-
 ## 💻 My favorite tools and technologies
 
 <table>
