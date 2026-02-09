@@ -70,7 +70,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&style=flat-square" />
-</p> 
+</p>
 
 
 
@@ -84,6 +84,7 @@
 </p> -->
 
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -98,7 +99,7 @@
 💻 Focused on becoming a **high-level Full Stack Developer**  
 🚀 Currently mastering **JavaScript, React, Node.js**  
 🎯 Mission: **Crack Google Summer of Code 2026**  
-📈 I build projects consistently and improve them like production apps  
+📈 I build projects consistently and improve them like production apps
 
 ---
 
@@ -110,39 +111,124 @@
 
 ---
 
+## 💻 My favorite tools and technologies
 
-## 💻 My Favorite Tools and Technologies
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br>React
+<td align="center" width="110"> 
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
 </td>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br>JavaScript
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
 </td>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br>TypeScript
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
 </td>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br>Node.js
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
 </td>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/><br>Express
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=webpack" width="48"/><br>Webpack
 </td>
 
-<td align="center" width="90">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/><br>MongoDB
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=typescript" width="48"/><br>TypeScript
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#
 </td>
 </tr>
 
 <tr>
-<td align="
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>HTML5
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>CSS3
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>Bootstrap
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sass" width="48"/><br>Sass
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=graphql" width="48"/><br>GraphQL
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br>PostgreSQL
+</td>
+</tr>
+
+</table>
 
 ---
 
@@ -150,11 +236,11 @@
 
 🔥 **High-quality builds that showcase real-world skills**
 
-- 🛒 **Amazon Clone** → Full e-commerce UI  
-- 🎬 **Netflix Clone** → API-based movie platform  
-- ☕ **Starbucks Clone** → Pixel-perfect responsive design  
-- 📺 **YouTube Clone** → Video browsing with search  
-- 🌐 **Personal Portfolio** → Developer-focused branding  
+- 🛒 **Amazon Clone** → Full e-commerce UI
+- 🎬 **Netflix Clone** → API-based movie platform
+- ☕ **Starbucks Clone** → Pixel-perfect responsive design
+- 📺 **YouTube Clone** → Video browsing with search
+- 🌐 **Personal Portfolio** → Developer-focused branding
 
 👉 **Tip:** Pin your BEST 6 repositories.
 
