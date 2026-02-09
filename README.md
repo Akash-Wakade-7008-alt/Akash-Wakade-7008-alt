@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Akash%20Wakade&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
@@ -71,4 +71,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&style=flat-square" />
-</p>
+</p> -->
