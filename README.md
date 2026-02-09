@@ -60,8 +60,8 @@
 <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>C++
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=webpack" width="48"/><br>Webpack
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
 
 <td align="center" width="110">
@@ -95,7 +95,7 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=laravel" width="48"/><br>Laravel
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
 </td>
 
 <td align="center">
@@ -116,44 +116,6 @@
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br>MongoDB
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48"/><br>WordPress
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sass" width="48"/><br>Sass
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=graphql" width="48"/><br>GraphQL
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br>PostgreSQL
 </td>
 </tr>
 
