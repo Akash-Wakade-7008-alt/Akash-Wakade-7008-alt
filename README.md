@@ -26,6 +26,20 @@
 
 ---
 
+## 🚀 Featured Projects
+
+🔥 **High-quality builds that showcase real-world skills**
+
+- 🛒 **Amazon Clone** → Full e-commerce UI
+- 🎬 **Netflix Clone** → API-based movie platform
+- ☕ **Starbucks Clone** → Pixel-perfect responsive design
+- 📺 **YouTube Clone** → Video browsing with search
+- 🌐 **Personal Portfolio** → Developer-focused branding
+
+👉 **Tip:** Pin your BEST 6 repositories.
+
+---
+
 ## 💻 My favorite tools and technologies
 
 <table>
@@ -144,20 +158,6 @@
 </tr>
 
 </table>
-
----
-
-## 🚀 Featured Projects
-
-🔥 **High-quality builds that showcase real-world skills**
-
-- 🛒 **Amazon Clone** → Full e-commerce UI
-- 🎬 **Netflix Clone** → API-based movie platform
-- ☕ **Starbucks Clone** → Pixel-perfect responsive design
-- 📺 **YouTube Clone** → Video browsing with search
-- 🌐 **Personal Portfolio** → Developer-focused branding
-
-👉 **Tip:** Pin your BEST 6 repositories.
 
 ---
 
