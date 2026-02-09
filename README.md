@@ -110,11 +110,39 @@
 
 ---
 
-## ⭐ Favourite Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,vercel,netlify,npm,yarn,chrome,mongodbcompass&perline=5" />
-</p>
+## 💻 My Favorite Tools and Technologies
+
+<table align="center">
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55"/><br>React
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55"/><br>JavaScript
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55"/><br>TypeScript
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55"/><br>Node.js
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55"/><br>Express
+</td>
+
+<td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55"/><br>MongoDB
+</td>
+</tr>
+
+<tr>
+<td align="
+
 
 ---
 
