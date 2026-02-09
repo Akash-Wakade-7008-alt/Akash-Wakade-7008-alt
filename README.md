@@ -62,16 +62,16 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>MySQL
+<td align="center">
+<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
 </td>
 
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=typescript" width="48"/><br>TypeScript
 </td>
 
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=aws" width="48"/><br>AWS
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue
 </td>
 
 <td align="center" width="110">
