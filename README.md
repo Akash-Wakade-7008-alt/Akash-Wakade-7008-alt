@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Akash%20Wakade&fontAlign=50&fontAlignY=35&color=gradient" />
 </p>
 
@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Learning+JavaScript+%26+React;Open+Source+%7C+GSoC+2026+Goal;Building+Projects+Every+Week" />
 </p>
 
----
-
+<!--
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -71,18 +70,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Akash-Wakade-7008-alt&style=flat-square" />
-</p> -->
+</p> 
 
 
 
 
-<p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Akash%20Wakade&fontAlign=50&fontAlignY=38&color=0:0ea5e9,100:6366f1&fontSize=42&fontColor=ffffff" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node;Open+Source+Aspirant+(GSoC+2026);Building+Projects+That+Solve+Real+Problems" />
-</p>
+</p> -->
 
 ---
 ## 🐍 Contribution Snake
