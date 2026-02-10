@@ -38,7 +38,7 @@
 
 ---
 
-## 💻 My favorite tools and technologies
+<!-- ## 💻 My favorite tools and technologies
 
 <table>
 <tr>
@@ -117,7 +117,15 @@
 </td>
 </tr>
 
-</table>
+</table> -->
+
+
+
+## 💻 My Favorite Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,python,js,cpp,vscode,php,ts,vue,cs,django,github,git,nodejs,html,css,bootstrap,tailwind,jquery&perline=9" />
+</p>
 
 ---
 
