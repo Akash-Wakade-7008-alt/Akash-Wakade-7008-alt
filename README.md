@@ -59,11 +59,11 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br>C
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=php" width="48"/><br>PHP
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
 </td>
 
 <td align="center" width="110">
@@ -75,7 +75,7 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=cs" width="48"/><br>C#
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
 </tr>
 
