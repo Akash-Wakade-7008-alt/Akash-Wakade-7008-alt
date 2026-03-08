@@ -25,17 +25,15 @@
 📈 I build projects consistently and improve them like production apps
 
 ---
-
 ## 🚀 Featured Projects
 
 🔥 **High-quality builds that showcase real-world skills**
 
-- 🛒 **Amazon Clone** → Full e-commerce UI
+- 📋 **Complaint Management System** → Web-based platform for submitting and managing complaints
 - 🎬 **Netflix Clone** → API-based movie platform
-- ☕ **Starbucks Clone** → Pixel-perfect responsive design
-- 📺 **YouTube Clone** → Video browsing with search
+- ✅ **To-Do List App** → Task management app with clean UI
+- 🎮 **Guessor Game App** → Java-based number guessing game
 - 🌐 **Personal Portfolio** → Developer-focused branding
-
 ---
 
 ## 💻 My favorite tools and technologies
