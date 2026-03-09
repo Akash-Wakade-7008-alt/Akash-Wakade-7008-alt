@@ -89,10 +89,12 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
 </td>
-</tr>
-</table>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>DBMS
+</td>
+</tr>
+</table>---
 
 ## 📊 GitHub Stats
 
