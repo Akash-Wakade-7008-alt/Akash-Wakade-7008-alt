@@ -45,10 +45,6 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
-</td>
-
-<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
 </td>
 
@@ -65,33 +61,17 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=typescript" width="48"/><br>TypeScript
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vue" width="48"/><br>Vue
-</td>
-
-<td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=django" width="48"/><br>Django
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=github" width="48"/><br>GitHub
 </td>
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="48"/><br>Git
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
 </td>
 
 <td align="center">
@@ -107,14 +87,9 @@
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>Tailwind
-</td>
-
-<td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
 </td>
 </tr>
-
 </table>
 
 ---
