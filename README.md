@@ -63,6 +63,10 @@
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>DBMS
+</td>
 </tr>
 
 <tr>
@@ -90,9 +94,6 @@
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>DBMS
-</td>
 </tr>
 </table>---
 
