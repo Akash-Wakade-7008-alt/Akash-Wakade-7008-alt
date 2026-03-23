@@ -41,10 +41,6 @@
 <table>
 <tr>
 
-<td align="center" width="110"> 
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br>React
-</td>
-
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br>JavaScript
 </td>
