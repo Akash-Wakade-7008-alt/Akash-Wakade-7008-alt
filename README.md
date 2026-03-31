@@ -16,11 +16,30 @@
 
 ## 👨‍💻 About Me
 
-🎓 B.Tech CSE (Starting Aug 2025)  
-💻 Focused on becoming a **high-level Full Stack Developer**  
-🚀 Currently mastering **JavaScript, React, Node.js**  
-🎯 Mission: **Crack Google Summer of Code 2026**  
-📈 I build projects consistently and improve them like production apps
+name      : Akash Wakade
+role      : B.Tech CSE Student
+location  : Bengaluru, Karnataka, India
+degree    : B.Tech CSE  |  Semester 2
+
+focus:
+  - Frontend Development
+  - Data Structures & Algorithms
+  - UI/UX Design with Figma
+
+currently_learning:
+  - MERN Stack (Full-Stack)
+  - System Design Fundamentals
+  - AI/ML Basics
+
+hobbies:
+  - Coding
+  - Open Source 
+  - Hackathons
+
+open_to:
+  - Internships
+  - Hackathons
+
 
 ---
 ## 🚀 Featured Projects
