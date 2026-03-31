@@ -14,8 +14,8 @@
 
 ---
 
-## 👨‍💻 About Me
-
+### `> whoami`
+```
 name      : Akash Wakade
 role      : B.Tech CSE Student
 location  : Bengaluru, Karnataka, India
@@ -40,7 +40,7 @@ open_to:
   - Internships
   - Hackathons
 
-
+```
 ---
 ## 🚀 Featured Projects
 
