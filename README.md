@@ -16,30 +16,28 @@
 
 ### `> whoami`
 ```
-name      : Akash Wakade
-role      : B.Tech CSE Student
-location  : Bengaluru, Karnataka, India
-degree    : B.Tech CSE  |  Semester 2
+name: Akash Wakade
+location: Bengaluru, India
+role: Aspiring Software Developer
 
 focus:
-  - Frontend Development
+  - Frontend Development (React, UI/UX)
   - Data Structures & Algorithms
-  - UI/UX Design with Figma
+  - Building real-world projects
 
 currently_learning:
-  - MERN Stack (Full-Stack)
-  - System Design Fundamentals
-  - AI/ML Basics
+  - MERN Stack
+  - System Design Basics
+  - AI/ML Fundamentals
 
-hobbies:
-  - Coding
-  - Open Source 
+interests:
+  - Open Source Contributions
   - Hackathons
+  - Creating intuitive user experiences
 
 open_to:
   - Internships
-  - Hackathons
-
+  - Collaborations
 ```
 ---
 ## 🚀 Featured Projects
