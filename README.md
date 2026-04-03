@@ -15,11 +15,11 @@
 ### `> whoami`
 
 ```
-* 🎓 B.Tech Computer Science student with a strong interest in AI and modern web development
-* 🛠️ Currently learning backend development and understanding how scalable systems are built
-* 🧠 Actively improving problem-solving skills through Data Structures & Algorithms
-* 🚀 Exploring full-stack development (MERN) and preparing for open-source programs like GSoC
-* 🌱 Always learning, building, and sharing my journey through projects and collaborations
+* 🎓** B.Tech Computer Science student with a strong interest in AI and modern web development
+* 🛠️ **Currently learning backend development and understanding how scalable systems are built
+* 🧠 **Actively improving problem-solving skills through Data Structures & Algorithms
+* 🚀 **Exploring full-stack development (MERN) and preparing for open-source programs like GSoC
+* 🌱 **Always learning, building, and sharing my journey through projects and collaborations
 
 ```
 
