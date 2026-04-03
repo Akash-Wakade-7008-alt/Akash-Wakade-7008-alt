@@ -2,8 +2,6 @@
   <img src="./Preview.png"/>
 </p>
 
-
-
 ---
 
 ## 🐍 Contribution Snake
@@ -15,31 +13,18 @@
 ---
 
 ### `> whoami`
+
 ```
-name: Akash Wakade
-location: Bengaluru, India
-role: Aspiring Software Developer
+* 🎓 B.Tech Computer Science student with a strong interest in AI and modern web development
+* 🛠️ Currently learning backend development and understanding how scalable systems are built
+* 🧠 Actively improving problem-solving skills through Data Structures & Algorithms
+* 🚀 Exploring full-stack development (MERN) and preparing for open-source programs like GSoC
+* 🌱 Always learning, building, and sharing my journey through projects and collaborations
 
-focus:
-  - Frontend Development (React, UI/UX)
-  - Data Structures & Algorithms
-  - Building real-world projects
-
-currently_learning:
-  - MERN Stack
-  - System Design Basics
-  - AI/ML Fundamentals
-
-interests:
-  - Open Source Contributions
-  - Hackathons
-  - Creating intuitive user experiences
-
-open_to:
-  - Internships
-  - Collaborations
 ```
+
 ---
+
 ## 🚀 Featured Projects
 
 🔥 **High-quality builds that showcase real-world skills**
@@ -49,6 +34,7 @@ open_to:
 - ✅ **To-Do List App** → Task management app with clean UI
 - 🎮 **Guessor Game App** → Java-based number guessing game
 - 🌐 **Personal Portfolio** → Developer-focused branding
+
 ---
 
 ## 💻 My favorite tools and technologies
