@@ -55,6 +55,10 @@
 <img src="https://skillicons.dev/icons?i=java" width="48"/><br>Java
 </td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>Python
+</td>
+
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>VS Code
 </td>
