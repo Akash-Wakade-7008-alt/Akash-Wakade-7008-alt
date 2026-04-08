@@ -101,7 +101,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akash-Wakade-7008-alt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akash-Wakade-7008-alt&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Wakade-7008-alt&theme=tokyonight&hide_border=true" />
 </p>
 
