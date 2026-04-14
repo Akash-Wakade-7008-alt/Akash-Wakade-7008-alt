@@ -35,7 +35,6 @@
 ---
 
 ## 💻 My favorite tools and technologies
-
 <table>
 <tr>
 
@@ -91,6 +90,10 @@
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=jquery" width="48"/><br>jQuery
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br>Node.js
 </td>
 
 </tr>
